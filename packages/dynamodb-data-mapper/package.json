@@ -1,5 +1,5 @@
 {
-  "name": "@aws/dynamodb-data-mapper",
+  "name": "@mccarthyfinch/dynamodb-data-mapper",
   "version": "0.7.3",
   "description": "A schema-based data mapper for Amazon DynamoDB",
   "keywords": [

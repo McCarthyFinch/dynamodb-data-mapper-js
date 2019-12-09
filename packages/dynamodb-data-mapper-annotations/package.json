@@ -1,5 +1,5 @@
 {
-  "name": "@aws/dynamodb-data-mapper-annotations",
+  "name": "@mccarthyfinch/dynamodb-data-mapper-annotations",
   "version": "0.7.3",
   "description": "Annotations providing easy integration between TypeScript domain objects and the @aws/dynamodb-data-mapper library",
   "keywords": [
