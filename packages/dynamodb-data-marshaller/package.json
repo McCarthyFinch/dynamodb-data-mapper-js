@@ -1,6 +1,6 @@
 {
   "name": "@mccarthyfinch/dynamodb-data-marshaller",
-  "version": "0.7.3",
+  "version": "0.7.4-alpha.0",
   "description": "A schema-based data marshaller for Amazon DynamoDB",
   "keywords": [
     "aws",
