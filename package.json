@@ -18,7 +18,7 @@
     "jest": "^24",
     "lerna": "^3.13",
     "typedoc": "^0.14.0",
-    "typescript": "^3.4"
+    "typescript": "3.4.5"
   },
   "dependencies": {
     "aws-sdk": "^2.7.0"
